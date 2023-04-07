@@ -9,3 +9,5 @@ After loading the configuration file, you can switch multiple modes, such as lar
 
 
 ※ Do not sell this config ※
+
+But, as you know, Acrepi is dead
